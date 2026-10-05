@@ -1,0 +1,1 @@
+# pantry-keeper-mcp
